@@ -79,6 +79,7 @@
   "libspectrum": "homebrew/core",
   "libtcod": "homebrew/core",
   "lincity-ng": "homebrew/core",
+  "magnetix": "homebrew/core",
   "mame": "homebrew/core",
   "mapcrafter": "homebrew/core",
   "mednafen": "homebrew/core",
